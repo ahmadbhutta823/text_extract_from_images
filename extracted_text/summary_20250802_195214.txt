@@ -1,0 +1,75 @@
+EXTRACTION SUMMARY
+==================================================
+Date: 2025-08-02 19:53:33
+Images processed: 6
+
+1. Autoclave B Cleaning Run 1.jpg
+   Words: 81, Characters: 437
+   Preview: AUTOCLAVE NO:1
+LOAD NO:8752
+OPERATOR:
+OK
+E42 236°F 04P
+E40 278°F 24P
+S40 275°F 30P
+S39 274°F 31P
+S38...
+
+2. Autoclave B Cleaning Run 2.jpg
+   Words: 77, Characters: 417
+   Preview: ```
+AUTOCLAVE NO:1
+LOAD NO:8753
+OPERATOR:
+OK
+E36 237°F 04P
+E34 269°F 21P
+S34 274°F 31P
+S33 274°F 31P...
+
+3. Autoclave B Instrument Run 1.jpg
+   Words: 124, Characters: 732
+   Preview: AUTOCALVE NO:1  
+LOAD NO:0754  
+OPERATOR:  
+D92 187°F 00P  
+D89 188°F 00P  
+D86 189°F 00P  
+D83 193°...
+
+4. Autoclave E Cleaning Run 1.jpg
+   Words: 75, Characters: 406
+   Preview: AUTOCALVE NO:1
+LOAD NO:0115
+OPERATOR:
+OK
+E33 235°F 04P
+E32 260°F 15P
+S32 274°F 31P
+S31 274°F 31P
+S30...
+
+5. Autoclave E Instrument Run 1.jpg
+   Words: 115, Characters: 594
+   Preview: ```
+AUTOCLAVE NO:1
+LOAD NO:0116
+OPERATOR:
+OK
+D76 195°F 00P
+D73 199°F 00P
+D70 202°F 00P
+D67 205°F 00P...
+
+6. Autoclave E Instrument Run 2.jpg
+   Words: 113, Characters: 554
+   Preview: AUTOCALVE NO:1
+LOAD NO:0117
+OPERATOR:
+OK
+D73 200F 00P
+D70 203F 00P
+D67 206F 00P
+D64 210F 00P
+D61 214...
+
